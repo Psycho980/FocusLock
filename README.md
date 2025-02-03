@@ -1,6 +1,11 @@
 > [!CAUTION]
 > The only official place to download Focuslock are this GitHub repository and through the links provided through [discord](https://discord.gg/n5ydyJtJst) . Any other websites offering downloads or claiming to be us are not controlled by us.
 
+> [!WARNING]
+> It will take time to load
+> This is only for windows
+
+
 <div align="center">
 
 [![Downloads][shield-repo-releases]][repo-releases]
