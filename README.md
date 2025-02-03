@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [shield-discord-server]: https://img.shields.io/discord/1335666371199238294?logo=discord&logoColor=white&label=discord&color=4d3dff
 
-[repo-releases]: https://github.com/pscyho980/focuslock/releases
+[repo-releases]: https://github.com/psycho980/focuslock/releases
 [repo-latest]:   https://github.com/psycho980/focuslock/releases/latest
 
 [discord-invite]:  https://discord.gg/n5ydyJtJst
