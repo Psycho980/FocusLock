@@ -31,7 +31,7 @@ FocusLock is a study monitoring application that helps users maintain focus duri
 ### From Source
 1. Clone the repository
 ```bash
-git clone https://github.com/FocusLock/FocusLock.git
+git clone https://github.com/psycho980/FocusLock.git
 ```
 2. Install required package
 ```bash
