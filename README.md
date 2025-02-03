@@ -24,7 +24,7 @@ FocusLock is a study monitoring application that helps users maintain focus duri
 ## Installation
 
 ### From Installer
-1. Download the [latest release](https://github.com/FocusLock/FocusLock/releases/latest) from the [releases page](https://github.com/FocusLock/FocusLock/releases)
+1. Download the [latest release](https://github.com/psycho980/FocusLock/releases/latest) from the [releases page](https://github.com/psycho980/FocusLock/releases)
 2. Run the installer (requires administrator privileges)
 3. Follow the installation wizard
 
@@ -101,12 +101,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-[shield-repo-releases]: https://img.shields.io/github/downloads/focuslock/focuslock/latest/total?color=981bfe
-[shield-repo-latest]:   https://img.shields.io/github/v/release/focuslock/focuslock?color=7a39fb
+[shield-repo-releases]: https://img.shields.io/github/downloads/pscyho980/focuslock/latest/total?color=981bfe
+[shield-repo-latest]:   https://img.shields.io/github/v/release/psycho980/focuslock?color=7a39fb
 
 [shield-discord-server]: https://img.shields.io/discord/1335666371199238294?logo=discord&logoColor=white&label=discord&color=4d3dff
 
-[repo-releases]: https://github.com/focuslock/focuslock/releases
-[repo-latest]:   https://github.com/focuslock/focuslock/releases/latest
+[repo-releases]: https://github.com/pscyho980/focuslock/releases
+[repo-latest]:   https://github.com/psycho980/focuslock/releases/latest
 
 [discord-invite]:  https://discord.gg/n5ydyJtJst
