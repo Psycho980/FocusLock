@@ -4,7 +4,7 @@
 > [!WARNING]
 > Once you start there is no going back, so once you before you set the timer make sure you are ready 
 
-> [!WARNING]
+> [!INFO]
 > It will take time to load
 > This version is only for Windows, get the apk at [Focus-Lock Android](https://github.com/psycho980/focuslock-android)
 
