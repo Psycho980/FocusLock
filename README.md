@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-[shield-repo-releases]: https://img.shields.io/github/downloads/pscyho980/focuslock/latest/total?color=981bfe
+[shield-repo-releases]: https://img.shields.io/github/downloads/psycho980/focuslock/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/psycho980/focuslock?color=7a39fb
 
 [shield-discord-server]: https://img.shields.io/discord/1335666371199238294?logo=discord&logoColor=white&label=discord&color=4d3dff
