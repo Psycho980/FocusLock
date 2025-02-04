@@ -7,6 +7,9 @@
 > [!TIP]
 > This version is only for Windows, get the apk at [Focus-Lock Android](https://github.com/psycho980/focuslock-android)
 
+> [!TIP]
+> Sometimes it may bug out and close everythig , restart your pc/lap and open the application again
+
 <div align="center">
 
 [![Downloads][shield-repo-releases]][repo-releases]
