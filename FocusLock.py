@@ -282,14 +282,14 @@ class StudyMonitor:
                 image_bytes = base64.b64decode(image_base64)
                 image = Image.open(BytesIO(image_bytes))
                 
-                question = "Answer only with 'yes' or 'no': Is this image showing study-related or educational content?"
+                question = "Answer only with 'yes' or 'no': Is this image showing entertainment - related content or playing a game?"
                 result = self.vqa_pipeline(image=image, question=question, top_k=1)
                 
                 answer = result[0]['answer'].lower()
-                is_study = answer == 'yes'
+                is_entertainment = answer == 'yes'
                 
                 logging.info(f"AI Analysis result: {answer}")
-                return is_study
+                return is_entertainment
                 
             except Exception as e:
                 logging.error(f"Error in AI analysis (attempt {attempt + 1}): {str(e)}")
@@ -371,8 +371,8 @@ class StudyMonitor:
             if not image_base64:
                 return
                 
-            is_studying = self.analyze_image_with_ai(image_base64)
-            if not is_studying:
+            is_entertainment = self.analyze_image_with_ai(image_base64)
+            if is_entertainment:
                 self._handle_non_study_activity(window_info)
                 
         except Exception as e:
